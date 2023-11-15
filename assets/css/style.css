@@ -66,6 +66,12 @@ h6 {
   opacity: 1;
 }
 
+.two-column-list {
+  column-count: 2;
+  list-style-type: disc; /* or none if you don't want bullet points */
+  padding-left: 20px; /* Adjust padding for better alignment */
+}
+
 .columns-coursework {
   display: flex;
 }
