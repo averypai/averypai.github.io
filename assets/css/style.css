@@ -276,7 +276,7 @@ h6 {
   height: 100vh;
   background: url("../img/IMG_6074.jpg") center center no-repeat;
   background-size: contain;
-  /* background-position: center; */
+  background-position: center;
   position: relative;
 }
 
