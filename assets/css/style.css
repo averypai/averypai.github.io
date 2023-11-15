@@ -66,6 +66,16 @@ h6 {
   opacity: 1;
 }
 
+.columns-coursework {
+  display: flex;
+}
+
+.columns-coursework ul {
+  flex: 1; /* Each column takes equal width */
+  list-style-type: disc; /* For bullet points */
+  padding-left: 20px; /* Add some padding for bullet points */
+}
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
